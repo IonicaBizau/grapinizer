@@ -1,6 +1,6 @@
 {
   "name": "grapinizer",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A Node.js wrapper for grapinizer.com.",
   "main": "lib/index.js",
   "directories": {
@@ -43,6 +43,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
